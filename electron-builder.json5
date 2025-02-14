@@ -136,7 +136,7 @@
   "publish": [
     {
       "provider": "github",
-      "owner": "luckjiawei",
+      "owner": "locolocoer",
       "repo": "frpc-desktop",
       "releaseType": "draft",
     },
